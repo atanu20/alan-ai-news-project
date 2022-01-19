@@ -10,7 +10,7 @@ const infoCards = [
     { color: '#283593', title: 'News by Sources', info: 'Techcrunch, BBC News, Buzzfeed, ABC News...', text: 'Give me the news from BBC NEWS' },
   ];
 
-  const alankey="f087f054a4cc634bf6fc3f11ff3f7c852e956eca572e1d8b807a3e2338fdd0dc/stage"
+  const alankey="your key"
 const Home = () => {
     const [view, setView] = useState(false);
     const [data ,setData]=useState([]);
